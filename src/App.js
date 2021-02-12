@@ -17,6 +17,7 @@ export default function App() {
         <a href="">About</a>
         <a href="">Contact</a>
         <a href="">Blog</a>
+        <a>Sign in</a>
       </div>
     </div>
   );
